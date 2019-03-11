@@ -5,7 +5,7 @@ funcionário terá aumento de 20%.
 
 salario = int(input("Digite o valor do salário recebido pelo funcionario: "))
 
-aumento = (salario / 100 ) * 20
+aumento = (salario / 100) * 20
 salarioAumento = salario + aumento
 
 print(f"Salário : {salario} R$")
